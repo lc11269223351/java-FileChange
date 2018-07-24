@@ -1,2 +1,3 @@
 # java-FileChange
 对java文件进行gbk和utf-8编码互转
+暂时只能对java后缀的文件名转换，以后会更新为整个java项目目录下的文件
